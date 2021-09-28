@@ -8,4 +8,5 @@ files description<br>
 6)data_augmentation.ipynb ==> model with data augmentation<br>
 7) pipeline.ipynb ==> final pipeline<br>
 8)final_hosting.ipynb ==> hosting the model<br> 
-Plz follow the above notebooks inorder to understand the flow
+Plz follow the above notebooks inorder to understand the flow <br>
+https://chinuteja2008.medium.com/sentence-correction-using-rnn-c382c03d27d
